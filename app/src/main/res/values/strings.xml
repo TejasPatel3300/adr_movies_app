@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">movies_app</string>
+    <string name="watch_videos_in_virtual_reality">Watch Videos \nin Virtual Reality</string>
+    <string name="sub_intro">Download and watch \nwherever you are</string>
+    <string name="get_in">Get In</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? \n <u>Register now</u></string>
+    <string name="what_would_you_like_to_watch">What would you like to watch?</string>
+</resources>
