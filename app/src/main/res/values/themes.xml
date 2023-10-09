@@ -11,4 +11,8 @@
         <item name="cornerFamily">rounded</item>
         <item name="cornerSize">50%</item>
     </style>
+
+    <style name="floating_button_style" parent="Widget.Design.FloatingActionButton">
+        <item name="android:foreground">@drawable/floating_button_background</item>
+    </style>
 </resources>

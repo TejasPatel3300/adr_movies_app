@@ -10,4 +10,11 @@
     <string name="login">Login</string>
     <string name="don_t_have_an_account_register_now">Don\'t have an account? \n <u>Register now</u></string>
     <string name="what_would_you_like_to_watch">What would you like to watch?</string>
+    <string name="search_movies">Search Movies...</string>
+    <string name="new_movies">New Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="explore">Explore</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
 </resources>
